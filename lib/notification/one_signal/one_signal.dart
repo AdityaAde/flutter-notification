@@ -19,7 +19,7 @@ class _OneSignalNotificationState extends State<OneSignalNotification> {
     initPlatformState();
   }
 
-  static const String oneSignalAppId = "ca14e38e-d6fb-42dd-b616-b4f3058548f5";
+  static const String oneSignalAppId = "";
   Future<void> initPlatformState() async {
     OneSignal.shared.setAppId(oneSignalAppId);
 
