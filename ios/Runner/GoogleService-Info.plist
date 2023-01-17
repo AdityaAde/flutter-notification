@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>992255978110-3k5vbg9hu6tgd31v9pt3p23uq6n58mo4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.992255978110-3k5vbg9hu6tgd31v9pt3p23uq6n58mo4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>992255978110-77td2avtu13srgrrauq6r2ssurb24nls.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGq15862jXyU3eNEtpBJudsYpd20zWblA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>992255978110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aditya.testnotification</string>
+	<key>PROJECT_ID</key>
+	<string>cuit-333603</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cuit-333603.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:992255978110:ios:e21f19b90c2f81d5e5862f</string>
+	<key>DATABASE_URL</key>
+	<string>https://cuit-333603-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
